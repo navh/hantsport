@@ -1,0 +1,575 @@
+JOB 'hantsport'
+"
+
+B + C + E + F + G - ( A + H + J ) = 8
+A + B + C + D + E + G - ( F + J ) = 22
+A + E + F + G + H + J - ( B + C + D ) = 5
+D + F + G + H + J - ( A + B ) = 20
+C + E + F + G - ( A + D + J ) = 3
+
+
+
+add 20 + 5 + 3
+============================
+A + E + F + G + H + J - ( B + C + D ) = 5
+D + F + G + H + J - ( A + B ) = 20
+C + E + F + G - ( A + D + J ) = 3
+==========================
+2E + 3F + 3G + 2H + J - 2B - D = 25
+==========================
+
+
+
+
+
+add
+============================
+A + E + F + G + H + J - ( B + C + D ) = 5
+C + E + F + G - ( A + D + J ) = 3
+==========================
+A + C + 2E + 2F + 2G + H + J - A - B - C - 2D - J = 8
+==========================
+2E + 2F + 2G + H - B - 2D = 8
+
+
+
+add
+============================
+A + B + C + D + E + G - ( F + J ) = 22
+D + F + G + H + J - ( A + B ) = 20
+===========================
+A + B + C + 2D + E + F + 2G + H + J  - A - B - F - J = 42
+C + 2D + E + 2G + H = 42
+
+
+
+minus
+============================
+A + B + C + D + E + G - ( F + J ) = 22
+D + F + G + H + J - ( A + B ) = 20
+===========================
+A + B + C + D + E + G = 22 + F + J
+D + F + G + H + J = 20 + A + B
+==========================
+A + B + C + E - F - H - J = 2 + F + J - A - B
+2A + 2B + C + E - 2F - H - 2J = 2
+
+
+
+minus
+A + B + C + D + E + G - ( F + J ) = 22
+C + E + F + G - ( A + D + J ) = 3
+============================
+A + B + C + D + E + G = 22 + F + J
+C + E + F + G = 3 + A + D + J
+============================
+A + B + D - F = 19 - A - D + F 
+2A + B  + 2D - 2F = 19
+==========================
+
+minus
+A + B + C + D + E + G - ( F + J ) = 22
+B + C + E + F + G - ( A + H + J ) = 8
+=============================
+A + B + C + D + E + G = 22 + F + J
+B + C + E + F + G = 8 + A + H + J
+==========================
+A + D - F = 14 - A + F - H 
+2A + D + H - 2F = 14
+
+ADD
+A + B + C + D + E + G - ( F + J ) = 22
+A + E + F + G + H + J - ( B + C + D ) = 5
+==================================
+2A + B + C + D + 2E + F + 2G + H + J - B - C - D - F - J = 27
+2A + 2E + 2G + H = 27
+
+
+
+minus
+D + F + G + H + J - ( A + B ) = 20
+A + E + F + G + H + J - ( B + C + D ) = 5
+===========================
+D + F + G + H + J = 20 + A + B
+A + E + F + G + H + J = 5 + B + C + D
+===========================
+-A + D - E = 15 + A - C - D
+-2A + 2D - E + C = 15
+
+minus
+D + F + G + H + J - ( A + B ) = 20
+C + E + F + G - ( A + D + J ) = 3
+===========================
+D + F + G + H + J = 20 + A + B
+C + E + F + G = 3 + A + D + J
+==========================
+D - C - E + H + J = 17 + B - D - J 
+2D - C - E + H + 2J - B = 17
+
+minus
+========================
+B + C + E + F + G - ( A + H + J ) = 8
+C + E + F + G - ( A + D + J ) = 3
+========================
+B + C + E + F + G = 8 + A + H + J
+C + E + F + G = 3 + A + D + J
+========================
+B = 5 + H - D
+B + D - H = 5
+
+
+
+ADD
+B + C + E + F + G - ( A + H + J ) = 8
+A + E + F + G + H + J - ( B + C + D ) = 5
+==============================
+A + B + C + 2E + 2F + 2G + H + J - A - B - C - D - H - J = 13
+2E + 2F + 2G - D = 13
+
+
+minus
+============================
+A + E + F + G + H + J - ( B + C + D ) = 5
+C + E + F + G - ( A + D + J ) = 3
+==========================
+A + E + F + G+ H + J = 5 + B + C + D
+C + E + F + G = 3 + A + D + J
+==========================
+A - C + H + J = 2 - A + B + C - J
+2A - 2C + H + 2J - B = 2
+
+add
+============================
+A + B + C + D + E + G - ( F + J ) = 22
+D + F + G + H + J - ( A + B ) = 20
+===========================
+A + B + C + 2D + E + F + 2G + H + J  - A - B - F - J = 42
+C + 2D + E + 2G + H = 42
+
+
+add 5
+==========================
+B + C + E + F + G - ( A + H + J ) = 8
+A + B + C + D + E + G - ( F + J ) = 22
+A + E + F + G + H + J - ( B + C + D ) = 5
+D + F + G + H + J - ( A + B ) = 20
+C + E + F + G - ( A + D + J ) = 3
+==========================
+ C + E  + G  = 8
+ E + G  = 22
+ E + F + G    = 5
+ F + G + H   = 20
+C + E + F + G - ( A + J ) = 3
+ ==========================
+2C + 4E + 3F + 5G + H - A - J = 58
+
+
+add 4
+==========================
+B + C + E + F + G - ( A + H + J ) = 8
+A + B + C + D + E + G - ( F + J ) = 22
+A + E + F + G + H + J - ( B + C + D ) = 5
+D + F + G + H + J - ( A + B ) = 20
+==========================
+C + E + F + G  = 8
+      E + G = 22
+      E  + G    = 5
+D + F + G + H  = 20
+ ==========================
+ C + D + 3E + 2F + 4G + H = 55
+
+
+minus 8 - 5
+==========================
+B + C + E + F + G - ( A + H + J ) = 8
+A + E + F + G + H + J - ( B + C + D ) = 5
+==========================
+B + C + E + F + G = 8 + A + H + J
+A + E + F + G + H + J = 5 + B + C + D
+==========================
+B - A + C - H - J = 3 + A + H + J - B - C - D
+==========================
+2B - 2A + 2C -2H - 2J + D = 3 
+
+"
+
+PRINT 'XX','A','B','C','D','H','J'; field=10; dec=0
+FOR A = 1,2,4,5
+FOR B = 1,3
+FOR C = 4,6,7,8,9
+FOR D = 7,9
+FOR H = 3,5,7
+FOR J = 1,2,3,4,5,6,8
+
+ CALC xx =    B + B - A - A + C + C - H - H - J - J + D
+ 
+IF xx .eq. 3 .and.  (C .ni. !(B,A,H,J,D)) .and. (D .ni. !(B,A,H,J))   \
+                    .and. (B .ni. !(A,H,J))   .and. (A .ni. !(J,H))  \
+                      .and.  (J .ne. H)
+
+    PRINT [ipr=*; squ=y]  xx, A,B,C,D,H,J; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+
+PRINT 'XX','C','D','E','F','G','H'; field=10; dec=0
+FOR C = 4,6,7,8,9
+FOR E = 1...8
+FOR F = 1...6
+FOR G = 2...8
+FOR H = 3,5,7
+FOR D = 7,9
+
+ CALC xx =    C + D + (3 * E) + F + F + (4*G) + H 
+ 
+IF xx .eq. 55 .and.  (C .ni. !(D,E,F,G,H)) .and. (D .ni. !(E,F,G,H))   \
+                    .and. (E .ni. !(F,G,H))   .and. (F .ni. !(G,H))  \
+                      .and.  (G .ne. H)
+
+    PRINT [ipr=*; squ=y]  xx, C,D,E,F,G,H; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+STOP
+
+CALC H = 9
+
+PRINT 'XX','C','E','F','G','A','J','H'; field=10; dec=0
+FOR C = 4,6,7,8,9
+FOR E = 1...8
+FOR F = 1...6
+FOR G = 2...8
+FOR A = 1,2,4,5
+FOR J = 1,2,3,4,5,6,8
+
+ CALC xx =    C + C + (4 * E) + (3*F) + (5 * G) + H - A - J
+ 
+IF xx .eq. 58 .and.  (C .ni. !(E,F,G,H,A,J)) .and. (E .ni. !(F,G,H,A,J))   \
+                    .and. (F .ni. !(G,H,A,J))   .and. (G .ni. !(H,A,J))  \
+                    .and. (H .ni. !(A,J))  .and.  (A .ne. J)
+
+    PRINT [ipr=*; squ=y]  xx, C,E,F,G,A,J,H; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+
+
+PRINT 'XX','C','D','E','G','H'; field=10; dec=0
+FOR C = 4...9
+FOR D = 7,9
+FOR E = 1...8
+FOR G = 1...8
+FOR H = 3,5,7
+
+ CALC xx =    C + D + D + E + G + G + H
+
+IF xx .eq. 42 .and.  (C .ni. !(D,E,G,H)) .and. (D .ni. !(E,G,H)) .and. (E .ni. !(H,G))  \
+                     .and.  (H .ne. G)
+
+    PRINT [ipr=*; squ=y]  xx, C,D,E,G,H; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+STOP
+
+PRINT 'XX','A','E','G','H'; field=10; dec=0
+FOR A = 1,2,4,5
+FOR E = 1...8
+FOR G = 2...8
+FOR H = 3,5,7
+
+ CALC xx =  A + A + E + E + G + G + H
+
+IF xx .eq. 27 .and.  (E .ni. !(A,G,H))  .and. (A .ni. !(G,H)) \
+                              .and.  (G .ne. H)
+
+    PRINT [ipr=*; squ=y]  xx, A,E,G,H; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+PRINT 'XX','E','F','G','D'; field=10; dec=0
+FOR E = 1...8
+FOR F = 1...6
+FOR G = 2...8
+FOR D = 7,9
+
+ CALC xx =    E + E + F + F + G + G - D
+
+IF xx .eq. 13 .and.  (E .ni. !(F,D,G)) .and. (D .ni. !(G,F))  \
+                              .and.  (G .ne. F)
+
+    PRINT [ipr=*; squ=y]  xx, E,F,G,D; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+STOP
+
+PRINT 'XX','C','D','E','G','H'; field=10; dec=0
+FOR C = 4...9
+FOR D = 7,9
+FOR E = 1...8
+FOR G = 1...8
+FOR H = 3,5,7
+
+ CALC xx =    C + D + D + E + G + G + H
+
+IF xx .eq. 42 .and.  (C .ni. !(D,E,G,H)) .and. (D .ni. !(E,G,H)) .and. (E .ni. !(H,G))  \
+                     .and.  (H .ne. G)
+
+    PRINT [ipr=*; squ=y]  xx, C,D,E,G,H; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+
+PRINT 'XX','A','C','H','J','B'; field=10; dec=0
+FOR A = 1,2,4,5
+FOR C = 4,6,7,8,9
+FOR H = 3,5,7
+FOR J = 1...6,8
+FOR B = 1,3
+
+ CALC xx =    A + A - C - C + H + J + J - B
+
+IF xx .eq. 2 .and.  (A .ni. !(B,C,H,J)) .and. (B .ni. !(C,H,J)) .and. (C .ni. !(H,J))  \
+                     .and.  (H .ne. J)
+
+    PRINT [ipr=*; squ=y]  xx, A,C,H,J,B; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+
+
+PRINT 'XX','B','D','H'; field=10; dec=0
+FOR B = 1,3
+FOR D =7,9
+FOR H = 3,5,7
+
+
+ CALC xx =  B + D - H
+
+IF xx .eq. 5 .and.  (D .ni. !(B,H))   .and.  (B .ne. H)
+
+    PRINT [ipr=*; squ=y]  xx, B,D,H; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+
+
+PRINT 'XX','D','C','E','H','J','B'; field=10; dec=0
+FOR D = 7,9
+FOR C = 4,6,7,8,9
+FOR E = 1...8
+FOR H = 3,5,7
+FOR J = 1...6,8
+FOR B = 1,3
+
+ CALC xx =    D + D - C - E + H + J + J - B
+
+IF xx .eq. 17 .and.  (D .ni. !(B,C,E,H,J)) .and. (B .ni. !(C,E,H,J)) .and. (C .ni. !(E,H,J))  \
+                    .and.  (E .ni. !(H,J))  .and.  (H .ne. J)
+
+    PRINT [ipr=*; squ=y]  xx, D,C,E,H,J,B; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+
+PRINT 'XX','A','D','F','H'; field=10; dec=0
+FOR A = 1,2,4,5
+FOR D = 7,9
+FOR F = 1...6
+FOR H = 3,5,7
+
+ CALC xx =    A + A + D + H - F - F
+
+IF xx .eq. 14 .and.  (A .ni. !(D,H,F)) .and. (D .ni. !(H,F))  \
+                              .and.  (H .ne. F)
+
+    PRINT [ipr=*; squ=y]  xx, A,D,H,F; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+
+PRINT 'XX','A','B','D','F'; field=10; dec=0
+FOR A = 1,2,4,5
+FOR B = 1,3
+FOR D = 7,9
+FOR F = 1...6
+
+ CALC xx =    A + A + B + D + D - F - F
+
+IF xx .eq. 19 .and.  (A .ni. !(D,B,F)) .and. (D .ni. !(B,F)) \
+                              .and.  (B .ne. F)
+
+    PRINT [ipr=*; squ=y]  xx, A,B,D,F; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+
+
+
+PRINT 'XX','A','D','E','C'; field=10; dec=0
+FOR A = 1,2,4,5
+FOR D = 7,9
+FOR E = 1...8
+FOR C = 4,6,7,8,9
+
+ CALC xx =  D  + D + C - A - A - E
+
+IF xx .eq. 15 .and.  (D .ni. !(C,A,E))  .and. (C .ni. !(A,E)) \
+                              .and.  (A .ne. E)
+
+    PRINT [ipr=*; squ=y]  xx, A,D,E,C; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+
+
+
+PRINT 'XX','A','D','F','H'; field=10; dec=0
+FOR A = 1,2,4,5
+FOR D = 7,9
+FOR F = 1...6
+FOR H = 3,5,7
+
+ CALC xx =    A + A + D + H - F - F
+
+IF xx .eq. 14 .and.  (A .ni. !(D,H,F)) .and. (D .ni. !(H,F))  \
+                              .and.  (H .ne. F)
+
+    PRINT [ipr=*; squ=y]  xx, A,D,H,F; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+
+PRINT 'XX','A','B','D','F'; field=10; dec=0
+FOR A = 1,2,4,5
+FOR B = 1,3
+FOR D = 7,9
+FOR F = 1...6
+
+ CALC xx =    A + A + B + D + D - F - F
+
+IF xx .eq. 19 .and.  (A .ni. !(D,B,F)) .and. (D .ni. !(B,F)) \
+                              .and.  (B .ne. F)
+
+    PRINT [ipr=*; squ=y]  xx, A,B,D,F; field = 10; dec=0
+
+
+ENDIF
+
+ENDFOR
+ENDFOR
+ENDFOR
+ENDFOR
+
+
+STOP
+
+
+
